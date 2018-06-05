@@ -4,4 +4,4 @@ Git is free software under the GPL.
 
 Git has a nutable index called stage
 
-Git tracks changes
+Git tracks changes of files
